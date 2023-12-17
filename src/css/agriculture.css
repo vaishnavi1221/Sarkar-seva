@@ -1,0 +1,18 @@
+.village-para{
+    
+    font-family: "Iceland",cursive;
+    font-size: 21px;
+    font-weight: 600;
+    padding-top: 5px;
+    text-align: left;
+    margin-left: 10px;
+}
+.agri-land-count{
+    font-family: "Iceland",cursive;
+    font-size: 21px;
+    font-weight: 600;
+    padding-top: 5px;
+    text-align: right;
+    margin-right: 5px;
+    
+}

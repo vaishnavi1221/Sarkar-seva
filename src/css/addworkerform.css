@@ -1,0 +1,15 @@
+.roll-on{
+    height: 77vh;
+    overflow-x: auto;
+}
+::-webkit-scrollbar{
+    display: none;
+}
+
+@media only screen and (max-width:800px) {
+    #form-icon-1, #form-icon-2, #form-icon-3{
+     display: none;
+ 
+    } 
+ 
+ }
